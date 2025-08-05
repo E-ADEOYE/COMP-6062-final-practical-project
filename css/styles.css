@@ -1,0 +1,59 @@
+h1{
+    padding: 19px;
+    background-color: blue;
+    color: white;
+    min-height: 100px;
+    text-align: center;
+    margin-bottom: 17px
+
+}
+
+@media (max-width: 768px){
+    body{
+        background-color: #b3f0ff;
+        color: #fff;
+        font-family: cursive;
+        margin-bottom: 16px;
+       
+        
+    }
+    
+}
+
+.module{
+    background-color: rgb(134, 47, 255); 
+    color: #fff;
+    padding: 17px;
+    height: 550px;  
+}
+
+.module2{
+    background-color: rgb(47, 193, 255); 
+    color: #fff;
+    padding: 17px;
+    height: 550px; 
+     
+}
+
+.module3{
+    background-color: rgb(134, 47, 255); 
+    color: #fff;
+    padding: 17px;
+    height: 550px; 
+     
+}
+
+.image{
+    border-radius: 25px;
+    margin-left: 75px;
+   
+}
+
+button{
+    color: blue;
+    border-color: #fff;
+}
+footer{
+    font-size: 12px;
+    margin-top: 17px;
+}
